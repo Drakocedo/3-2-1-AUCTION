@@ -6,6 +6,8 @@ Desarrollado por:
 
 ##### Resumen:
 
+3-2-1-AUCTION es una aplicacion de apuestas que permite a los usuarios ofertar por los diferentes productos a subastar y ofrecer diferentes productos que ya no utilices y que puedan ser de utilidad a otras personas.
+
 
     
 ##### Descripción (antecedentes, problema que se resuelve, etc.). Incluir diagramas o imágenes de apoyo.
